@@ -1,0 +1,60 @@
+{
+  "login": [
+    {
+      "userName": "h@m.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "userName": "g@g.com",
+      "password": "123",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "firstName": "hindi",
+      "lastName": "medium",
+      "dateOfBirth": "2018-12-01",
+      "email": "h@m.com",
+      "password": "123",
+      "loginId": 1,
+      "id": 1
+    },
+    {
+      "firstName": "gul",
+      "lastName": "panag",
+      "dateOfBirth": "2018-12-07",
+      "email": "g@g.com",
+      "password": "123",
+      "loginId": 2,
+      "id": 2
+    }
+  ],
+  "goals": [
+    {
+      "name": "House",
+      "amount": 500000000,
+      "targetDate": "2019-01-31",
+      "amountSaved": 1,
+      "id": 2,
+      "userId": "2"
+    },
+    {
+      "name": "hillu",
+      "amount": 5846546,
+      "targetDate": "2019-01-18",
+      "amountSaved": 654,
+      "id": 3,
+      "userId": "2"
+    },
+    {
+      "name": "gold",
+      "amount": 78965464,
+      "targetDate": "2019-01-18",
+      "amountSaved": 2123,
+      "userId": "1",
+      "id": 4
+    }
+  ]
+}
